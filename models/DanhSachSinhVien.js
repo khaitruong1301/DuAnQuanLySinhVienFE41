@@ -11,4 +11,8 @@ var DanhSachSinhVien = function(){
     this.capNhatSinhVien = function (maSV,sinhVien){
         console.log('chức năng cập nhật sinh viên!');
     }
+
+    this.hienThiThongTinSinhVien = function () {
+        console.log('Hien Thi Thong Tin SV');
+    }
 }
