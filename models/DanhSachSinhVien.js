@@ -14,5 +14,9 @@ var DanhSachSinhVien = function(){
 
     this.hienThiThongTinSinhVien = function () {
         console.log('Hien Thi Thong Tin SV');
+        console.log('Hello World');
+        
     }
+
+
 }
