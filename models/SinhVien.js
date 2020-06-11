@@ -6,4 +6,11 @@ var SinhVien = function (){
     this.DiemToan = '';
     this.DiemLy = '';
     this.DiemHoa = '';
+
+
+    this.xuatThongTinSinhVien_1 = function(){
+        console.log(this.TenSV);
+        console.log(this.Email);
+        
+    }
 }
