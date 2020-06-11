@@ -11,6 +11,9 @@ var SinhVien = function (){
     this.xuatThongTinSinhVien_1 = function(){
         console.log(this.TenSV);
         console.log(this.Email);
-        
+    }
+    this.xuatThongTinSinhVien_123 = function () {
+        console.log(this.TenSV);
+        console.log(this.Email);
     }
 }
